@@ -1,0 +1,15 @@
+[project]
+name = "minimum-path-algorithm-using-vector-fields"
+version = "0.1.0"
+description = "Minimum Distance Path on Vector Fields - InspiraSTEM 2026. Author: Gabriela Rodriguez. Mentor: Dr. Manuel Diaz."
+authors = [
+    {name = "Gabriela Rodriguez"}
+]
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "fdx[animations,plot]",
+    "glfw>=2.10.0",
+    "manim>=0.20.1",
+    "pyopengl>=3.1.10",
+]
